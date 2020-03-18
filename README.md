@@ -1,9 +1,5 @@
-# Assignment Description
+# Language Day EL '23
 
-written by 
+[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Language-Day-EL)](https://repl.it/github/athenian-ct-projects/Language-Day-EL)
 
-edit with appropriate link:
-
-[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
-
-Add info about game here
+* May need a timer. I saw a lot of print statements that may go by too fast without one. -ML
